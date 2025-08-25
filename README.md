@@ -1,3 +1,16 @@
+
+## 📬 Submission Note
+
+Dear Sir,
+
+This is our group project submission for [Python]. We’ve built a Python-based quiz game using Tkinter, featuring randomized questions, a countdown timer, and animated transitions.
+
+**Group Members:**
+- Pramod Adhikari
+- Suyog Shrestha
+- Rayan Sakya
+
+Thank you for your guidance and support!
 # quiz-game-project
 QuizGameProject/
 ├── main.py
